@@ -44,7 +44,8 @@ Hexwave
 
 This project is licensed under the [MIT] License - see the LICENSE.md file for details
 
-## Acknowledgments (expanded acknowledgements on v1.0)
+## Acknowledgments/Thank Yous (expanded acknowledgements on v1.0)
 
 * This project is a fork of the [Waygate-Client](https://github.com/vswarte/waygate-client) and was the foundation for what this mod was built on and became. 
 * Utilizes [FSRS](https://github.com/vswarte/fromsoftware-rs)
+* This mod uses [ThomasJClark's](https://github.com/ThomasJClark) [Transmogrify](https://github.com/ThomasJClark/elden-ring-transmog/tree/main)
