@@ -34,8 +34,6 @@ For all bug reports please include your log file located in Game/Elden Ring/Comb
 
 ## Authors (expanded authors and contributors on v1.0)
 
-Contributors names and contact info
-
 Primary developer:
 G1ZMO_DRAG0N
 
