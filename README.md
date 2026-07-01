@@ -1,4 +1,5 @@
-![Uploading 3525r35.png…]()
+<img width="2530" height="1500" alt="3525r35" src="https://github.com/user-attachments/assets/700a29ee-3f87-447c-9e9e-703ed1e8d02d" />
+
 # CombatantsMod (Pre-Release)
 
 An Elden Ring PvP focused mod.
