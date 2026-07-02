@@ -30,7 +30,7 @@ You will see many quality of life features and content not available in vanilla 
 
 If you encounter any bugs or issues please open a ticket in [https://github.com/G1ZMODRAG0N/CombatantsMod/issues](https://github.com/G1ZMODRAG0N/CombatantsMod/issues)
 As well you may DM myself (G1ZMO_DRAG0N) or Hexwave with any issues. 
-For all bug reports please include your log file located in Game/Elden Ring/Combatants/cmbt-client.log
+For all bug reports please include your log file located in Elden Ring/Game/Combatants/cmbt-client.log
 
 ## Authors (expanded authors and contributors on v1.0)
 
