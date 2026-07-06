@@ -49,3 +49,4 @@ This project is licensed under the [MIT] License - see the LICENSE.md file for d
 * This project is a fork of the [Waygate-Client](https://github.com/vswarte/waygate-client) and was the foundation for what this mod was built on and became. 
 * Utilizes [FSRS](https://github.com/vswarte/fromsoftware-rs)
 * This mod uses [ThomasJClark's](https://github.com/ThomasJClark) [Transmogrify](https://github.com/ThomasJClark/elden-ring-transmog/tree/main)
+* This mod started as a project that built off the original DENMaps. Any existing/left-over elements are credited to their original creators.
