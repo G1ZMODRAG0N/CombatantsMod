@@ -87,9 +87,9 @@ Hexwave
 
 ## Links
 
-[Elden Ring Combatants Discord](https://discord.gg/cXQMqgq72)
-[Emilia's Build Planner](https://er-build-planner.nyasu.business/)
-[Roadmap](https://trello.com/b/6ouynFgG/erc-roadmap)
+[Elden Ring Combatants Discord](https://discord.gg/cXQMqgq72)  
+[Emilia's Build Planner](https://er-build-planner.nyasu.business/)  
+[Roadmap](https://trello.com/b/6ouynFgG/erc-roadmap)  
 
 ## License
 
