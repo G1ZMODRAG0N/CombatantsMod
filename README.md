@@ -12,14 +12,14 @@ You will see many quality of life features and content not available in vanilla 
 
 ### Dependencies/Requirements
 
-Recommended to have the same minimum requirements as vanilla Elden Ring:
+Recommended to have the same minimum requirements as vanilla Elden Ring:  
     ```- Windows 10 or higher. (Linux support coming)
     - (INTEL CORE I5-8400 or AMD RYZEN 3 3300X) or better
     - 12 GB RAM
     - (NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB) or better
     - Dx12
-    - 300-400 MB available space for the base mod +4.8 GB for transmog armor assets```
-ERC does its best to improve performance in-game but we still recommend these minimum specs
+    - 300-400 MB available space for the base mod +4.8 GB for transmog armor assets```  
+ERC does its best to improve performance in-game but we still recommend these minimum specs  
 ### (You must own the base Elden Ring game and all DLC content)
 
 ### Installation/Run
@@ -59,7 +59,8 @@ There are a number of features in Combatants. Below is an ever changing list of 
 - Updated Player Name Tags: Players now show Ping, Country, Packetloss, and Rune Level above their heads. This is all configurable in cmbt-config.ini. Including a anonymous mode for player names.
 - Automatic Summon Sign activating without having to interactive with summon signs directly
 - New Player QOL features. When starting new games you will have all basic features, whetstones, cookbooks, maps, graces, colosseums, perfumes, pots, and memory slots unlocked. Resting at the bonfire as a new player will award you all multiplayer items, flasks, and horses.
-- Character Build Importer. ERC introduces a build importer that allows players to import builds made through [Emelia's Build Planner](https://er-build-planner.nyasu.business/) 
+- Character Build Importer. ERC introduces a build importer that allows players to import builds made through [Emelia's Build Planner](https://er-build-planner.nyasu.business/)
+- Give all items option at the bonfire. This feature allows players to get all items of the chosen item type. Similar to Gigagib
 
 ## Maps
 <img width="1146" height="622" alt="image" src="https://github.com/user-attachments/assets/78f5fb7f-8d4d-496b-82a8-df57f9b47f0b" />
