@@ -13,12 +13,12 @@ You will see many quality of life features and content not available in vanilla 
 ### Dependencies/Requirements
 
 Recommended to have the same minimum requirements as vanilla Elden Ring:  
-    ```- Windows 10 or higher. (Linux support coming)  
-    - (INTEL CORE I5-8400 or AMD RYZEN 3 3300X) or better  
-    - 12 GB RAM  
-    - (NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB) or better  
-    - Dx12  
-    - 300-400 MB available space for the base mod +4.8 GB for transmog armor assets```  
+    ```- Windows 10 or higher. (Linux support coming)```  
+    ```- (INTEL CORE I5-8400 or AMD RYZEN 3 3300X) or better  ```  
+    ```- 12 GB RAM  ```  
+    ``` - (NVIDIA GEFORCE GTX 1060 3 GB or AMD RADEON RX 580 4 GB) or better  ```  
+    ```- Dx12  ```  
+    ```- 300-400 MB available space for the base mod +4.8 GB for transmog armor assets```    
 ERC does its best to improve performance in-game but we still recommend these minimum specs  
 ### (You must own the base Elden Ring game and all DLC content)
 
